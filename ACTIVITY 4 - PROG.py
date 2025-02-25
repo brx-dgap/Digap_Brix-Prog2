@@ -33,5 +33,3 @@ while True:
         
         result = amount / currency[current_currency] * currency[target_currency]
         print(f"{amount} {current_currency} = {result} {target_currency}")
-
-
